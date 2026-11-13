@@ -1,0 +1,9 @@
+{
+  "name": "rot",
+  "identifier": "dev.jenggo.rot",
+  "version": "0.1.0",
+  "icon": "icon.png",
+  "fileAssociations": [
+    { "ext": ["txt", "md", "markdown", "log", "json", "yaml", "yml", "toml", "xml", "html", "css", "scss", "less", "csv", "tsv", "sql", "conf", "cfg", "ini", "env", "diff", "patch", "go", "ts", "tsx", "js", "jsx", "py", "rb", "php", "rs", "c", "h", "cpp", "hpp", "cs", "java", "kt", "swift", "scala", "lua", "pl", "r", "sh", "bash", "zsh", "fish", "proto", "graphql", "tex"], "name": "Text Document", "role": "Viewer", "mimeType": "text/plain" }
+  ]
+}
